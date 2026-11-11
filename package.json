@@ -1,0 +1,21 @@
+{
+  "name": "voce-e-o-detector",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jogo para feira de extensão: o jogador faz o papel de um detector de GPS spoofing em drones.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/luckiest-guy": "^5.3.0",
+    "@fontsource/nunito": "^5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vite": "^8.3.7",
+    "vite-plugin-singlefile": "^2.3.4"
+  }
+}
