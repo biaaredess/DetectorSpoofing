@@ -20,8 +20,7 @@ npm install
 npm run dev
 ```
 
-Depois abra o endereço que aparecer no terminal (normalmente
-http://localhost:5173).
+Depois abra o endereço que aparecer no terminal 
 
 ## Versão para a feira
 
@@ -30,9 +29,7 @@ npm run build
 ```
 
 O build gera **um único arquivo**, `dist/index.html`, com o código, o CSS e as
-fontes dentro dele. Copie esse arquivo para o notebook da estação e abra com
-dois cliques: não precisa de servidor nem de internet. Para ocupar a tela
-inteira, aperte **F11** no navegador.
+fontes dentro dele.
 
 O "Placar do dia" fica guardado no próprio navegador (localStorage), com uma
 lista separada para cada data. O botão "Limpar placar" apaga só a lista de hoje.
